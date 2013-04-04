@@ -11,7 +11,7 @@
 
 
 a {
-	color: #94c045;
+	color: #ee3124;
 }
 
 a:hover {
@@ -42,7 +42,7 @@ footer .nav-list li a:hover,footer ul.regular li a:hover  {
 /* sequence slider */
 
 .info  h2{
-	background: #94c045;
+	background: #ee3124;
 }
 
 /* fontawesome icons */
@@ -123,7 +123,7 @@ input[type="color"]:focus,
 
 /* tagline */
 .tagline {
-	border-bottom:5px solid #94c045;
+	border-bottom:5px solid #ee3124;
 }
 
 
