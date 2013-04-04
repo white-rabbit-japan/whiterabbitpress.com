@@ -134,7 +134,7 @@
 }
 .info h3{
 	color: #fff;
-	background: #404b50;
+	background: #777;
 	padding: 4px 6px;
 	font-size: 26px;
 	line-height: 26px;
@@ -147,7 +147,7 @@
 	margin: 0 0 24px 0;
 }
 .info p{
-	color: #3c4549;
+	color: #666;
 	width:60%;
 	font-size: 17px;
 	line-height: 27px;

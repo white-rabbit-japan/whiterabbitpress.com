@@ -804,6 +804,10 @@
     padding-right: 20px;
     padding-left: 20px;
   }
+  .wrj_header{
+    margin-left: -20px;
+    margin-right:-20px; 
+  }
   .navbar-fixed-top,
   .navbar-fixed-bottom,
   .navbar-static-top {
@@ -956,6 +960,9 @@
   .navbar-fixed-top,
   .navbar-fixed-bottom {
     position: static;
+  }
+  .wrj_header{
+    position:static !important;
   }
   .navbar-fixed-top {
     margin-bottom: 20px;
