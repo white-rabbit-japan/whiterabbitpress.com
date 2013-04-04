@@ -1490,7 +1490,7 @@ input[type="submit"].btn.btn-mini {
 }
 
 .navbar-fixed-top {
-  top: 0;
+  top: 51px;
 }
 
 .navbar-fixed-top .navbar-inner,

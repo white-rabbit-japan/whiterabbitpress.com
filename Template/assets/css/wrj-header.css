@@ -28,6 +28,9 @@ h1.wrj_logo {
     background: url("http://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/header-bg.png") repeat-x scroll 0 0 transparent;
     height: 51px;
     width: 100%;
+    position:fixed;
+    top:0;
+    z-index: 1030;
 }
 .wrj_header ul {
     float: right;
