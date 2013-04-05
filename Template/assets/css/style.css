@@ -1632,8 +1632,8 @@ img.alignright{
 
 @media (min-width: 768px) and (max-width: 979px) {
 	.wrj_container {
-    width: 25%;
-    margin:0 auto;
+    text-align:center;
+    width:auto;
 	}
 	.wrj_header-nav{
 			display: block;
@@ -1692,8 +1692,8 @@ section#subintro{
 
 @media (max-width: 767px) {
 	.wrj_container {
-    	width: 25%;
-    	margin: 0 auto;
+    width: auto;
+    text-align:center;
 	}
 	.wrj_header-nav{
 		display: block;
@@ -1815,8 +1815,8 @@ section#subintro{
 
 @media (max-width: 480px) {
 	.wrj_container {
-    width: 25%;
-    margin:0 auto;
+    width: auto;
+    text-align:center;
 	}
 	.wrj_header-nav{
 			display: block;
