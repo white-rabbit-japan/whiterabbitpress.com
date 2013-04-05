@@ -107,3 +107,8 @@ h1.wrj_logo {
 .wrj_header ul li.on a {
     color: #A3D4F7;
 }
+.wrj_header-nav{
+    display: none;
+    padding-top: 15px;
+    height: 46px;
+}
