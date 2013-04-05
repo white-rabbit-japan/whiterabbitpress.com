@@ -237,11 +237,6 @@ section#subintro {
 }
 
 .dotted_line {
-  padding:0;
-  margin:20px 0 20px 0;
-  width:100%;
-  height:1px;
-  border-bottom: 1px dotted #eeeeee;
 }
 
 
@@ -1636,6 +1631,18 @@ img.alignright{
 /* ==== media screen queries ==== */
 
 @media (min-width: 768px) and (max-width: 979px) {
+	.wrj_container {
+    width: auto;
+	}
+	.header-nav{
+			display: block;
+	}
+	.wrj-big-nav{
+			display: none;
+	}
+	.wrj_header {
+		width:auto;	
+	}
 	.navbar .navbar-inner .container .logo {
     padding-left: 20px;
     padding-right: 20px;
@@ -1683,6 +1690,18 @@ section#subintro{
 }
 
 @media (max-width: 767px) {
+	.wrj_container {
+    	width: auto;
+	}
+	.header-nav{
+		display: block;
+	}
+	.wrj-big-nav{
+		display: none;
+	}
+	.wrj_header {
+		width:auto;	
+	}
 
 	.navbar .navbar-inner .container .logo {
     padding-left: 20px;
@@ -1793,7 +1812,18 @@ section#subintro{
 }
 
 @media (max-width: 480px) {
-
+	.wrj_container {
+    width: auto;
+	}
+	.header-nav{
+			display: block;
+	}
+	.wrj-big-nav{
+			display: none;
+	}
+	.wrj_header {
+		width:auto;
+	}
     nav select {
       display: inline-block;
 	  width:85%;

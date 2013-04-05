@@ -16,6 +16,7 @@ h1.wrj_logo {
     float: left;
     height: 51px;
     width: 206px;
+    margin-bottom:0px;
 }
 .wrj_ir {
     background-color: transparent;
@@ -63,12 +64,6 @@ h1.wrj_logo {
     display: block;
     height: 0;
     visibility: hidden;
-}
-.wrj_container {
-    margin: 0 auto;
-    padding: 0;
-    position: relative;
-    width: 960px;
 }
 h1.wrj_logo {
     background: url("http://shop.whiterabbitjapan.com/skin/frontend/galapellente/default/images/white-rabbit-japan-logo.png") no-repeat scroll 0 0 transparent;
