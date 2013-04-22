@@ -1877,3 +1877,22 @@ section#subintro{
 
 }
 
+/* Custom
+========================================== */
+ul.checklist {
+	padding:0;
+	margin:0;
+}
+ul.checklist li {
+    background: url("../img/check/check1.png") no-repeat scroll 0 0 / 23px 23px transparent;
+    color: #333333;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    height: 25px;
+    line-height: 1.5em;
+    list-style-type: none;
+    margin-bottom: 8px;
+    margin-top: 0;
+    padding-left: 40px;
+} 
