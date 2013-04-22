@@ -1884,7 +1884,8 @@ ul.checklist {
 	margin:0;
 }
 ul.checklist li {
-    background: url("../img/check/check1.png") no-repeat scroll 0 0 / 23px 23px transparent;
+	background: url("../img/check/check5.png") no-repeat scroll 0 2px / 16px 16px transparent;
+    border-bottom: 1px dashed #999999;
     color: #333333;
     font-family: 'Open Sans',sans-serif;
     font-size: 14px;
@@ -1894,5 +1895,21 @@ ul.checklist li {
     list-style-type: none;
     margin-bottom: 8px;
     margin-top: 0;
-    padding-left: 40px;
-} 
+    padding-left: 35px
+}
+.drop-shadow:before, .drop-shadow:after {
+    content: "";
+    position: absolute;
+    z-index: -2;
+}
+.drop-shadow {
+    background: none repeat scroll 0 0 #FFFFFF;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    float: left;
+    margin: 2em 10px 4em;
+    padding: 1em;
+    position: relative;
+}
+.raised {
+    box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
