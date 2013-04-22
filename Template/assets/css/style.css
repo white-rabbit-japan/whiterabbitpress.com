@@ -1910,6 +1910,12 @@ ul.checklist li {
     padding: 1em;
     position: relative;
 }
-.raised {
+.raised3 {
     box-shadow: 0 15px 10px -10px rgba(0, 0, 0, 0.5), 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+.raise2 {
+    box-shadow: 0 6px 9px -1px rgba(0, 0, 0, 0.15), 0 5px 2px rgba(0, 0, 0, 0.06), 0 0 25px rgba(0, 0, 0, 0.06) inset;
+}
+.raised {
+    box-shadow: 0 5px 3px 2px rgba(0, 0, 0, 0.08), 0 5px 2px transparent, 0 0 25px rgba(0, 0, 0, 0.03) inset;
 }
