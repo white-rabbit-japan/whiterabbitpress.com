@@ -329,5 +329,14 @@
 	</div>
 </div>
 </footer>
+<script type="text/javascript">
+	// DOM Ready
+	$(function(){
+		$(".small-nav").change(function() {
+  			window.location = $(this).find("option:selected").val();
+		});
+	});
+</script>
+
 </body>
 </html>
