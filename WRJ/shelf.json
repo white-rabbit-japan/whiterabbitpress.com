@@ -1,0 +1,20 @@
+[
+  {
+    "name": "kachikachiyama",
+    "title": "Kachikachiyama",
+    "info": "A bad Racoon gets punished by a White Rabbit.",
+    "date": "2013-05-20 10:10:10",
+    "cover": "http://whiterabbitpress.com/WRJ/kachikachiyama/issue_cover.png",
+    "url": "http://whiterabbitpress.com/WRJ/kachikachiyama/1.0.hpub",
+    "product_id": "WRJ.issues.kachikachi2013"
+  },
+  {
+    "name": "futatsu-no-pan",
+    "title": "Futatsu no Pan",
+    "info": "A woman misjudges a man and ruins his work.",
+    "date": "2013-05-21 10:10:10",
+    "cover": "http://whiterabbitpress.com/WRJ/futatsunopan/issue_cover.png",
+    "url": "http://whiterabbitpress.com/WRJ/futatsunopan/1.0.hpub",
+    "product_id": "WRJ.issues.futatsunopan2013"
+  }
+]

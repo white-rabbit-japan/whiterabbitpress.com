@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(.*)whiterabbitpress.com [NC]
+RewriteRule ^(.*)$ http://shop.whiterabbitjapan.com/$1 [R=301,L]
+
+
