@@ -1,0 +1,23 @@
+{
+  "name": "whiterabbitpress.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://MaxHodges@github.com/white-rabbit-japan/whiterabbitpress.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/white-rabbit-japan/whiterabbitpress.com/issues"
+  },
+  "homepage": "https://github.com/white-rabbit-japan/whiterabbitpress.com#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "semantic-ui": "^2.2.1"
+  }
+}

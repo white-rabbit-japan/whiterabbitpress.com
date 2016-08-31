@@ -1,0 +1,84 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+#heading {
+  padding-top: 3em;
+  //padding-bottom: 2em;
+  font-size: 1.5em;
+}
+
+h2.ui.center.aligned.dividing.header {
+  padding-top: 3em;
+  margin-bottom: 1em;
+  font-size: 2em;
+}
+
+.ui.grey.centered.small.header {
+  font-weight: normal;
+}
+
+.ui.centered.leaderboard.ad {
+  margin-bottom: 3em;
+  margin-top: 3em;
+}
+
+h2.ui.center.aligned.dividing.header {
+  letter-spacing: 0.1em;
+}
+
+.extra.content a {
+  display: inherit;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.description {
+  font-size: 1.1em;
+}
+
+.ui.card .image, .ui.cards .ui.card .image {
+  background-color: #ffffff;
+}
+
+.ui.inverted.vertical.footer.segment {
+  background-color: #545454;
+  margin-top: 4em;
+  padding: 2em 0em;
+}
+
+.hiring-bubble {
+
+  background: #FF9D6E;
+  -webkit-border-radius: 9999px;
+  border-radius: 9999px;
+  -webkit-border-radius: 624.9375rem;
+  border-radius: 624.9375rem;
+  color: #fff;
+  display: inline-block;
+  font-weight: 400;
+  padding: 2px 8px;
+  padding: .125rem .5rem;
+  position: relative;
+  margin-left: 6px;
+  margin-left: .375rem;
+}
+
+.hiring-bubble:before {
+  background: url(../img/bubble-tail-left.svg) no-repeat;
+  content: ' ';
+  height: 10px;
+  height: .625rem;
+  left: -7px;
+  left: -.4375rem;
+  position: absolute;
+  top: 7px;
+  top: .4375rem;
+  width: 10px;
+  width: .625rem;
+}
+
+.text-white {
+  color: #ffffff;
+}
